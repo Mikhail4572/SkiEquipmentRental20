@@ -1,0 +1,31 @@
+﻿<Window x:Class="SkiEquipmentRental20.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkiEquipmentRental20"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="AuthWindow" Height="500" Width="900">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border Padding="20" VerticalAlignment="Center" Grid.Column="1" 
+              BorderThickness="2" BorderBrush="#1f1f1f" CornerRadius="2">
+            <StackPanel>
+                <Label Margin="0 0 0 10" Content="Вход" HorizontalContentAlignment="Center" FontSize="28"/>
+                <TextBlock TextWrapping="Wrap" Text="Почта/Логин" FontSize="14"/>
+                <TextBox FontSize="14" Text="{Binding Login, UpdateSourceTrigger=PropertyChanged}"/>
+                <TextBlock Text="Пароль" Margin="0 10 0 0" FontSize="14"/>
+                <TextBox Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}" FontSize="14"/>
+                <Button Command="{Binding AuthCommand}" Margin="0 10 0 0" Padding="0 2 0 2" FontSize="15" Content="Войти"/>
+                <Button x:Name="Bt_sing_up" Click="Bt_sing_up_Click" Margin="0 10 0 0" Padding="0 2 0 2" FontSize="15" Content="Регистрация" />
+            </StackPanel>
+        </Border>
+        <Frame x:Name="Fr_AuthWindow" Grid.ColumnSpan="3" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

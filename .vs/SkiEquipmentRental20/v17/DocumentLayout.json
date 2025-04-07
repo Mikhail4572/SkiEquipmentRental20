@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\viewmodels\\equipmenteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\viewmodels\\equipmenteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\editequipmentitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\editequipmentitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\editequipmentitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\editequipmentitempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\equipmentpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\equipmentpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\equipmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\equipmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\addrentalpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\addrentalpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\singuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\singuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\addrentalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\addrentalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\models\\skirentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\models\\skirentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\pages\\historyrentalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\pages\\historyrentalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\viewmodels\\singupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\viewmodels\\singupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\classes\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\classes\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|c:\\users\\user\\desktop\\skiequipmentrental20\\skiequipmentrental20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8ED120D3-DD5E-45D3-AC10-047257F729EA}|SkiEquipmentRental20\\SkiEquipmentRental20.csproj|solutionrelative:skiequipmentrental20\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EquipmentPage.xaml",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\EquipmentPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EquipmentPage.xaml",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\EquipmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-03T08:29:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EquipmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\EquipmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EquipmentPage.xaml.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\EquipmentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:30:41.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEquipmentItemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T15:57:59.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEquipmentItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\EditEquipmentItemPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:24:16.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\ViewModels\\EquipmentEditViewModel.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\ViewModels\\EquipmentEditViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\ViewModels\\EquipmentEditViewModel.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\ViewModels\\EquipmentEditViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:18:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Models\\Equipment.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Models\\Equipment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:00:47.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRentalPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\AddRentalPage.xaml.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\AddRentalPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\AddRentalPage.xaml.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\AddRentalPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:12:44.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\SingUpPage.xaml",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\SingUpPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\SingUpPage.xaml",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\SingUpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T17:28:13.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRentalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\AddRentalPage.xaml",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\AddRentalPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\AddRentalPage.xaml",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\AddRentalPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T12:12:42.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Models\\Status.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:54:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SkiRentalDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Models\\SkiRentalDBContext.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Models\\SkiRentalDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Models\\SkiRentalDBContext.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Models\\SkiRentalDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:55:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\ViewModels\\SingUpViewModel.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\ViewModels\\SingUpViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\ViewModels\\SingUpViewModel.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\ViewModels\\SingUpViewModel.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAASwLYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:08:22.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Classes\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Classes\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Classes\\CurrentUser.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\Classes\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:07:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistoryRentalPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\HistoryRentalPage.xaml",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\Pages\\HistoryRentalPage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\Pages\\HistoryRentalPage.xaml",
+              "RelativeToolTip": "SkiEquipmentRental20\\Pages\\HistoryRentalPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T12:09:32.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SkiEquipmentRental20\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAywCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:42:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SkiEquipmentRental20\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SkiEquipmentRental20\\SkiEquipmentRental20\\MainWindow.xaml",
+              "RelativeToolTip": "SkiEquipmentRental20\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T15:17:54.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

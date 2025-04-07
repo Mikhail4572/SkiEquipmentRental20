@@ -1,0 +1,53 @@
+﻿<Page x:Class="SkiEquipmentRental20.Pages.EditEquipmentItemPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SkiEquipmentRental20.Pages"
+      xmlns:svgc="http://sharpvectors.codeplex.com/svgc/"
+      mc:Ignorable="d" Loaded="Page_Loaded"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EditEquipmentItemPage">
+
+    <Grid Background="#fff">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid HorizontalAlignment="Left" Margin="10">
+            <svgc:SvgViewbox x:Name="SvgImg_back" MouseLeftButtonUp="SvgImg_back_MouseLeftButtonUp" Source="/Icons/arrow_back_50dp.svg"/>
+        </Grid>
+
+
+        <Border Grid.RowSpan="2" Padding="20" VerticalAlignment="Center" Grid.Column="1" 
+            BorderThickness="2" BorderBrush="#1f1f1f" CornerRadius="2">
+            
+            <StackPanel>
+                <Label x:Name="Lb_header" Content="Редактирование" HorizontalContentAlignment="Center" FontSize="20"/>
+                <TextBlock Text="Номер" Margin="5 10 0 0" FontSize="14"/>
+                <TextBox IsReadOnly="True" x:Name="Tb_id" FontSize="14" Text="{Binding EquipmentId}"/>
+                <TextBlock Text="Название" Margin="5 10 0 0" FontSize="14"/>
+                <TextBox x:Name="Tb_name" FontSize="14" Text="{Binding Name}"/>
+                <TextBlock Text="Тип" Margin="5 10 0 0" FontSize="14"/>
+                <TextBox x:Name="Tb_type" FontSize="14" Text="{Binding Type}"/>
+                <TextBlock Text="Стоимость в день" Margin="5 10 0 0" FontSize="14"/>
+                <TextBox x:Name="Tb_price" FontSize="14" Text="{Binding Price}"/>
+                <TextBlock Text="Кол-во" Margin="5 10 0 0" FontSize="14"/>
+                <TextBox x:Name="Tb_quantity" FontSize="14" Text="{Binding Quantity}"/>
+                <TextBlock Text="Статус" Margin="5 10 0 0" FontSize="14"/>
+                <ComboBox ItemsSource="{Binding Statuses}" FontSize="14" x:Name="CbStatus" DisplayMemberPath="CurrentStatus"
+                          SelectedItem="{Binding Selected_status, Mode=TwoWay}" />
+
+                <Button x:Name="Bt_action" Content="Изменить" Command="{Binding CurrentCommand}"
+                        FontSize="18" Margin="5 10 5 10" Padding="0 2 0 2"/>
+            </StackPanel>
+            
+        </Border>
+    </Grid>
+</Page>
